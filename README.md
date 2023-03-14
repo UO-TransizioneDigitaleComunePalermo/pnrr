@@ -12,3 +12,4 @@
    - sostegno finanziario, per un totale di risorse disponibili pari a 53 mln di euro a fronte della presentazione di singoli progetti di intervento, nell’ambito delle tecnologie assistive, della formazione e della riduzione degli errori.
    
 - [Decreto PNRR 2: le novità in materia di pubblico impiego](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/pnrr/raw/main/novita-in-materia-di-pubblico-impiego-nov_2022/Decreto_PNRR_2__le_novita_in_materia_di_pubblico_impiego-novembre-2022.pdf)
+- [OpenCity Italia, approfondimenti: sito web e servizi digitali, versione 12 _public_link](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/pnrr/raw/main/OpenCityItalia_approfondimenti_sito-web-e-servizi-digitali_versione-12_public_link.pdf)
