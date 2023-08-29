@@ -14,3 +14,4 @@
    
 - [Decreto PNRR 2: le novità in materia di pubblico impiego](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/pnrr/raw/main/novita-in-materia-di-pubblico-impiego-nov_2022/Decreto_PNRR_2__le_novita_in_materia_di_pubblico_impiego-novembre-2022.pdf)
 - [OpenCity Italia, approfondimenti: sito web e servizi digitali, versione 12 _public_link](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/pnrr/raw/main/OpenCityItalia_approfondimenti_sito-web-e-servizi-digitali_versione-12_public_link.pdf)
+- [Nuovo Codice Appalti e norme derogatorie PNRR. Una breve guida per orientarsi](https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/download/5914_13541366d2794018245db68f9776ee3e)
